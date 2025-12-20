@@ -22,3 +22,11 @@ Node.js installed on your machine.
 A Supabase account.
 A Google AI Studio account (for the Gemini API key).
 Postman (optional, for testing APIs).
+
+
+📝 Authors
+Koushik Chandaka
+Gemini (Co-Author/Assistant) 
+📄 License
+This project is open-source.
+This project is open-source.

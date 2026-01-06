@@ -1,6 +1,16 @@
 Smart Shop Backend 🛒🤖
 A robust backend server for the "Smart Shop" application, built with Node.js, Express, and Supabase. This project features a location-aware smart search engine powered by Google Gemini AI, allowing users to find the best products nearby with intelligent ranking and summaries.
 
+👤 Author
+Koushik yadav  |     Jyanesh Naidu
+
+GitHub: https://github.com/alubillijyaneswarrao-creator                          ⭐ If you find this project useful, give it a star!     
+
+LinkedIn: https://linkedin.com/in/jyaneshnaidu
+
+
+
+
 🚀 Features
 
 User Authentication: Secure signup and login flows using Supabase Auth.
